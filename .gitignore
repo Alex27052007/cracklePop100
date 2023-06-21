@@ -1,0 +1,6 @@
+/bin
+/coverage
+/crackle-pop.spec.js
+/index.js
+/node_modules
+/package-lock.json
